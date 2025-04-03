@@ -1,0 +1,1 @@
+Design a module to encapsulate functionality

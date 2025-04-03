@@ -1,0 +1,1 @@
+Defining `required_providers` block

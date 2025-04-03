@@ -1,0 +1,3 @@
+variable "length" {
+  type = number
+}

@@ -1,0 +1,1 @@
+Create a default `tfvars` file named `terraform.tfvars` and `default.auto.tfvars`

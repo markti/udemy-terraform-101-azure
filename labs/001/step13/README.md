@@ -1,0 +1,1 @@
+Input Variable Types `string`, `number`, `bool`, `list`, `map`, `set`, `object`
