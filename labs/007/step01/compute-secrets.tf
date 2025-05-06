@@ -5,7 +5,7 @@ resource "tls_private_key" "vm1" {
 
 data "azapi_resource" "devops_rg" {
   name      = "rg-devops-dev"
-  parent_id = "/subscriptions/${data.azurerm_client_config.current.subscription_id}"
+  parent_id = "/subscriptions/${data.azapi_client_config.current.subscription_id}"
   type      = "Microsoft.Resources/resourceGroups@2021-04-01"
 }
 
